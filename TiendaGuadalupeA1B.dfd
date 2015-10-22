@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+59
+'Programa que multiplica y suma el precio de los productos'
+4
+1
+19
+'Cantidad de papas'
+5
+1
+2
+N1
+4
+1
+19
+'Cantidad de jugos'
+5
+1
+2
+N2
+4
+1
+24
+'Cantidad de chocolates'
+5
+1
+2
+N3
+4
+1
+21
+'Cantidad de gomitas'
+5
+1
+2
+N4
+4
+1
+23
+'Cantidad de refrescos'
+5
+1
+2
+N5
+6
+3
+10
+resultado1
+4
+N1*7
+10
+resultado2
+4
+N2*9
+10
+resultado3
+4
+N3*3
+6
+2
+10
+resultado4
+4
+N4*5
+10
+resultado5
+5
+N5*10
+6
+1
+9
+resultado
+54
+resultado1+resultado2+resultado3+resultado4+resultado5
+4
+1
+26
+'El total es ' , resultado
+1

@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+'Programa que calcule la propina'
+4
+1
+20
+'Total de la cuenta'
+5
+1
+2
+N1
+4
+1
+20
+'Numero de personas'
+5
+1
+2
+N2
+6
+3
+10
+resultado1
+7
+N1*0.10
+10
+resultado2
+13
+resultado1+N1
+10
+resultado3
+13
+resultado2/N2
+4
+1
+31
+'Total de propina' , resultado1
+4
+1
+28
+'Total a pagar' , resultado2
+4
+1
+40
+'Total a pagar por persona' , resultado3
+1
