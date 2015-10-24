@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+'Programa de edad'
+4
+1
+14
+'Dime tu edad'
+5
+1
+4
+edad
+7
+0
+1
+22
+(edad>=0)AND(edad<=12)
+7
+0
+1
+23
+(edad>=13)AND(edad<=18)
+7
+0
+1
+23
+(edad>=19)AND(edad<=29)
+7
+0
+1
+23
+(edad>=30)AND(edad<=59)
+7
+0
+1
+7
+edad>60
+13
+4
+1
+19
+'Eres adulto mayor'
+13
+13
+4
+1
+13
+'Eres adulto'
+13
+13
+4
+1
+12
+'Eres joven'
+13
+13
+4
+1
+18
+'Eres adolescente'
+13
+13
+4
+1
+11
+'Eres niño'
+13
+1
